@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=bionicle12&color=ff69b4)
+
 <!--
 **bionicle12/bionicle12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
